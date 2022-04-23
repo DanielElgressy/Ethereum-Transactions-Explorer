@@ -1,4 +1,4 @@
-## GK8 React & Electron assignment By Daniel ELgressy
+## GK8 React & Electron assignment By Daniel Elgressy
 Personal contact information:\
 Email: danielelgressy@gmail.com\
 Phone: 050-7966360
