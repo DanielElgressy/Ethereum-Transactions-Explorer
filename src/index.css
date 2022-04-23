@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+  /* background-color: #3f3f3f; */
+}
+.css-3ihp42-MuiDataGrid-root{
+  border: 0px !important
+}
