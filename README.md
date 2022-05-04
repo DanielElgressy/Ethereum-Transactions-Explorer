@@ -1,7 +1,6 @@
-## GK8 React & Electron assignment By Daniel Elgressy
+## GK8 React & Electron Ethereum Transactions Explorer By Daniel Elgressy
 Personal contact information:\
 Email: danielelgressy@gmail.com\
-Phone: 050-7966360
 
 In the project directory, you can run:
 
